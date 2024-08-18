@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChristianRogers1
-- 👀 I’m interested in data science and machine learning, as well as biomedical informatics and entrepreneurship
+- 👀 I’m interested in machine learning in robotics, as well as biomedical informatics and entrepreneurship
 - 🌱 I’m currently learning more about machine learning this way I can start my research
 - 💞️ I’m looking to collaborate on any project whoever is reading this wants me on, I'm down for anything!
-- 📫 How to reach me: christianrogers021@gmail.com
+- 📫 How to reach me: christianrogers021@gmail.com, or my University of Utah email: u1493630@umail.utah.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the viola!
 

@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ChristianRogers1
-- 👀 I’m interested in machine learning in robotics, as well as biomedical informatics and entrepreneurship
-- 🌱 I’m currently learning more about machine learning this way I can start my research
-- 💞️ I’m looking to collaborate on any project whoever is reading this wants me on, I'm down for anything!
-- 📫 How to reach me: christianrogers021@gmail.com, or my University of Utah email: u1493630@umail.utah.edu
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play the viola!
+Hi! I'm Christian Rogers, a student and researcher at the University of Utah working on a 4 year BS/MS in computer science, with a double major in applied math
+
+I am currently doing research in mechanistic interpretability of transformers and medical applications of digital signal processing, but am certainly open to more projects!
 
 <!---
 ChristianRogers1/ChristianRogers1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
